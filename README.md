@@ -33,9 +33,9 @@ I'm a passionate developer with a keen interest in software development and open
 
 
 ## Recent Projects
-- **Project 1:** [CS50P](https://github.com/harshad018/Orion) - CS50P Full Course.
+- **Project 1:** [CS50P](https://github.com/harshad018/CS50P) - CS50P Full Course.
 - **Project 2:** [DSAL](https://github.com/harshad018/DSAL) - DSA Lab Codes.
-- **Project 3:** [OOPL](https://github.com/harshad018/OOPL) - OOP Lab codes.
+- **Project 3:** [OOPL](https://github.com/harshad018/OOP-Lab) - OOP Lab codes.
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshad018&theme=radical)
 
