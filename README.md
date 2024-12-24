@@ -11,6 +11,10 @@ I'm a passionate developer with a keen interest in software development and open
 - 📫 How to reach me: [Email](mailto:harshadgd9016@gmail.com)
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles.
 
+## Profile views
+![Visitor Count](https://profile-counter.glitch.me/{harshad018}/count.svg)
+
+
 ## My Skills
 - **Languages:** Python, dart, Java, C++
 - **Frameworks:** Flutter
