@@ -28,7 +28,7 @@ I'm a passionate developer with a keen interest in software development and open
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/harshad9016)
+- [LinkedIn](https://www.linkedin.com/in/harshadg9016)
 - [Twitter](https://twitter.com/HarshadGD)
 
 
