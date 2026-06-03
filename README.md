@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills. Here are a few things about me:
+I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills.
 
 - 🔭 I'm currently working on various exciting AI projects.
 - 🌱 I'm currently learning advanced algorithms and system design.
@@ -36,8 +36,9 @@ I'm a passionate developer with a keen interest in software development and open
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- Streak is generated locally by GitHub Actions — never breaks -->
 <p align="center">
-  <img src="https://streak-stats-eight.vercel.app?user=harshad018&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
