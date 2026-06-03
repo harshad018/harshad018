@@ -46,7 +46,7 @@ I'm a passionate developer with a keen interest in software development and open
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshad018&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://github-trophies.vercel.app/?username=harshad018&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
 ---
