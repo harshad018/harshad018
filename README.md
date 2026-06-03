@@ -1,42 +1,41 @@
+# hi there, i'm harshad! 👋 
 
-# Hi there, I'm Harshad! 👋
+## about me 
+i'm a passionate developer with a keen interest in software development and open-source contributions. i love exploring new technologies and continuously improving my skills. here are a few things about me: 
 
-## About Me
-I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills. Here are a few things about me:
+- 🔭 i’m currently working on various exciting ai projects. 
+- 🌱 i’m currently learning advanced algorithms and system design. 
+- 👯 i’m looking to collaborate on open-source projects. 
+- 💬 ask me about python, flutter/dart, and cloud computing. 
+- 📫 how to reach me: [email](mailto:harshadgd9016@gmail.com) 
+- ⚡ fun fact: i enjoy playing chess and solving puzzles.
 
-- 🔭 I’m currently working on various exciting AI projects.
-- 🌱 I’m currently learning advanced algorithms and system design.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, flutter/dart, and cloud computing.
-- 📫 How to reach me: [Email](mailto:harshadgd9016@gmail.com)
-- ⚡ Fun fact: I enjoy playing chess and solving puzzles.
+## profile views 
+![visitor count](https://profile-counter.glitch.me/{harshad018}/count.svg)
 
-## Profile views
-![Visitor Count](https://profile-counter.glitch.me/{harshad018}/count.svg)
+## my skills 
+- **languages:** python, dart, java, c++ 
+- **frameworks:** flutter 
+- **tools & technologies:** git, aws 
+- **databases:** mysql 
 
+## github stats 
+![harshad's github stats](https://shion.dev)
 
-## My Skills
-- **Languages:** Python, dart, Java, C++
-- **Frameworks:** Flutter
-- **Tools & Technologies:** Git,  AWS
-- **Databases:** MySQL
+## top languages 
+![top languages](https://shion.dev)
 
-## GitHub Stats
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad018&show_icons=true&theme=radical)
+## contributions 
+![github streak](https://vercel.app)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical)
+## connect with me 
+- [linkedin](https://www.linkedin.com/in/harshadg9016) 
+- [twitter](https://twitter.com/harshadgd) 
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/harshadg9016)
-- [Twitter](https://twitter.com/HarshadGD)
+## recent projects 
+- **project 1:** [cs50p](https://github.com/harshad018/cs50p) - cs50p full course. 
+- **project 2:** [dsal](https://github.com/harshad018/dsal) - dsa lab codes. 
+- **project 3:** [oopl](https://github.com/harshad018/oop-lab) - oop lab codes. 
 
-
-## Recent Projects
-- **Project 1:** [CS50P](https://github.com/harshad018/CS50P) - CS50P Full Course.
-- **Project 2:** [DSAL](https://github.com/harshad018/DSAL) - DSA Lab Codes.
-- **Project 3:** [OOPL](https://github.com/harshad018/OOP-Lab) - OOP Lab codes.
-## Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshad018&theme=radical)
-
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just want to chat. 😊
+---
+thank you for visiting my profile! feel free to reach out if you want to collaborate on any project or just want to chat. 😊
