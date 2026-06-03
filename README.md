@@ -74,8 +74,6 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/harshad018/count.svg" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=harshad018&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <p align="center">Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat. 😊</p>
