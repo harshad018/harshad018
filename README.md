@@ -37,7 +37,7 @@ I'm a passionate developer with a keen interest in software development and open
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshad018&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats-eight.vercel.app?user=harshad018&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,10 +50,10 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshad018&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/harshad018" alt="Harshad's GitHub Heatmap" />
 </p>
 
 ---
@@ -74,6 +74,8 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=harshad018&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshad018&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 <p align="center">Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat. 😊</p>
