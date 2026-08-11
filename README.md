@@ -1,4 +1,9 @@
+
+
+
 # Hi there, I'm Harshad! 👋
+
+
 
 ## About Me
 
@@ -13,6 +18,8 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
+
+
 ## 🛠️ My Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,14 +33,16 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshad018&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshad018&show_icons=true&theme=radical&hide_border=true" alt="Harshad's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Streak is generated locally by GitHub Actions — never breaks -->
@@ -43,6 +52,8 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
+
+
 ## 🏆 GitHub Trophy
 
 <p align="center">
@@ -50,6 +61,8 @@ I'm a passionate developer with a keen interest in software development and open
 </p>
 
 ---
+
+
 
 ## 🌱 Contribution Heatmap
 
@@ -59,6 +72,8 @@ I'm a passionate developer with a keen interest in software development and open
 
 ---
 
+
+
 ## 🚀 Recent Projects
 
 - **[CS50P](https://github.com/harshad018/cs50p)** — CS50P full course.
@@ -66,6 +81,8 @@ I'm a passionate developer with a keen interest in software development and open
 - **[OOPL](https://github.com/harshad018/oop-lab)** — OOP lab codes.
 
 ---
+
+
 
 ## 🤝 Connect With Me
 
