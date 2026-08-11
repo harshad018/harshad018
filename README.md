@@ -40,13 +40,7 @@ I'm a passionate developer with a keen interest in software development and open
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshad018&show_icons=true&theme=radical&hide_border=true&v=1" alt="Harshad's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad018&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-</p>
 
 <!-- Streak is generated locally by GitHub Actions — never breaks -->
 <p align="center">
